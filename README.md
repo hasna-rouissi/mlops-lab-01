@@ -7,5 +7,5 @@
 ## Étape 3 : Créer le workflow CI/CD
 <img width="790" height="611" alt="image" src="https://github.com/user-attachments/assets/0826dc1b-1aa2-4ccb-9282-8aaec9830961" />
 
-#3 Étape 4 : Commit et push
+## Étape 4 : Commit et push
 <img width="945" height="368" alt="image" src="https://github.com/user-attachments/assets/0414eac7-7922-4d06-9aad-7cb3c7d2ba43" />
